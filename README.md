@@ -91,7 +91,10 @@ ursa
 ![image](https://user-images.githubusercontent.com/101462877/228602523-a1b68375-b11b-45c7-881b-5aeb8520e60d.png)
 
 
-Sorularınız ve merak ettikleriniz için:
+# Sorularınız ve merak ettikleriniz için:
+
+![image](https://user-images.githubusercontent.com/101462877/228602970-a209f2b2-3269-48e4-9d6a-7d04004bf5f7.png)
+
 
 - [Telegram](https://t.me/lossnode)
 - [Discord](https://discord.gg/bJZA4NyPjz)

@@ -78,7 +78,20 @@ git clone https://github.com/fleek-network/ursa.git
 cd ursa
 ```
 
-## Devam.
+## Devam. Burası da uzun sürer.
 ```
 make install
 ```
+
+## Loglara bakmak için aşağıdaki komut.
+```
+ursa
+```
+
+![image](https://user-images.githubusercontent.com/101462877/228602523-a1b68375-b11b-45c7-881b-5aeb8520e60d.png)
+
+
+Sorularınız ve merak ettikleriniz için:
+
+- [Telegram](https://t.me/lossnode)
+- [Discord](https://discord.gg/bJZA4NyPjz)

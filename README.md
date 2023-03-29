@@ -2,13 +2,15 @@
 
 ## Helo, şuan için devnet aşamasında olan ödülsüz olduğu belirtilen Fleek Network için kurulum yapacağız. Testnet'e geçildiğinde ödüllü olacağı söylenmiş, güncellemeler için bizi takipte kalın. Sağ üstten yıldızlayıp forklamayı unutmayalım. Sorularınız olursa: [LossNode Chat](https://t.me/LossNode)
 
-![image](https://user-images.githubusercontent.com/101462877/228519078-51efde98-f8b9-4e6f-9284-ebcae56d36a5.png)
+# [Fleek Network Turkish Telegram](https://t.me/FleekNetworkTurkish)
 
+
+![image](https://user-images.githubusercontent.com/101462877/228519078-51efde98-f8b9-4e6f-9284-ebcae56d36a5.png)
 
 ## Minimum sistem gereksinimleri:
 NODE TİPİ | CPU     | RAM      | SSD     |
 | ------------- | ------------- | ------------- | -------- |
-| Devnet | 4          | 8         | 150GB yeterli  |
+| Devnet | 4          | 8         | 160GB  |
 
 
 ## Fleek Network için önemli linkler:
@@ -98,3 +100,6 @@ ursa
 
 - [Telegram](https://t.me/lossnode)
 - [Discord](https://discord.gg/bJZA4NyPjz)
+
+
+# [Fleek Network Turkish Telegram](https://t.me/FleekNetworkTurkish)
